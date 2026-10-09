@@ -13,7 +13,7 @@
 
 ## `$ whoami`
 
-I'm **Magomed Mutsulkhanov** (`mmutsulk`), a **back-end & systems developer** in training at **42 Mulhouse**.
+Hey, I'm **Magomed Mutsulkhanov** (`mmutsulk`), a **back-end & systems developer** in training at **42 Mulhouse**.
 I write **C** and **C++98** close to the system: **TCP servers**, **I/O multiplexing**, **process management**, **memory management** and **containerized infrastructure**.
 I like understanding what runs under the hood, and building things that run on ports.
 
